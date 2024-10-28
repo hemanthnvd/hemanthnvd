@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on **Opensource**
 
-- 💬 Ask me about **Next js**
 
 - 📫 How to reach me **hemanthnvd@gmail.com**
 

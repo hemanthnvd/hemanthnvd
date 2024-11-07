@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthnvd&hide=css,html&langs_count=10&show_icons=true&locale=en&layout=compact" alt="hemanthnvd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthnvd&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&hide=issues&show_icons=true&locale=en" alt="hemanthnvd" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthnvd&rank_icon=github&show=prs_merged_percentage&hide=issues&show_icons=true&locale=en" alt="hemanthnvd" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthnvd&" alt="hemanthnvd" /></p>
